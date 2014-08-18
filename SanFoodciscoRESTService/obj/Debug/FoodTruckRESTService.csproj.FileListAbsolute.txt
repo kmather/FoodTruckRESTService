@@ -1,0 +1,6 @@
+C:\Users\Ken\Documents\Visual Studio 2013\Projects\FoodTruckRESTService\SanFoodciscoRESTService\bin\SanFoodciscoRESTService.dll.config
+C:\Users\Ken\Documents\Visual Studio 2013\Projects\FoodTruckRESTService\SanFoodciscoRESTService\bin\SanFoodciscoRESTService.dll
+C:\Users\Ken\Documents\Visual Studio 2013\Projects\FoodTruckRESTService\SanFoodciscoRESTService\bin\SanFoodciscoRESTService.pdb
+C:\Users\Ken\Documents\Visual Studio 2013\Projects\FoodTruckRESTService\SanFoodciscoRESTService\obj\Debug\FoodTruckRESTService.csprojResolveAssemblyReference.cache
+C:\Users\Ken\Documents\Visual Studio 2013\Projects\FoodTruckRESTService\SanFoodciscoRESTService\obj\Debug\SanFoodciscoRESTService.dll
+C:\Users\Ken\Documents\Visual Studio 2013\Projects\FoodTruckRESTService\SanFoodciscoRESTService\obj\Debug\SanFoodciscoRESTService.pdb

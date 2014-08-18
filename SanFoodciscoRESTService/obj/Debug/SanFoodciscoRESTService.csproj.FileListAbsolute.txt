@@ -1,0 +1,6 @@
+c:\users\ken\documents\visual studio 2013\Projects\SanFoodciscoRESTService\SanFoodciscoRESTService\obj\Debug\SanFoodciscoRESTService.csprojResolveAssemblyReference.cache
+c:\users\ken\documents\visual studio 2013\Projects\SanFoodciscoRESTService\SanFoodciscoRESTService\bin\SanFoodciscoRESTService.dll.config
+c:\users\ken\documents\visual studio 2013\Projects\SanFoodciscoRESTService\SanFoodciscoRESTService\bin\SanFoodciscoRESTService.dll
+c:\users\ken\documents\visual studio 2013\Projects\SanFoodciscoRESTService\SanFoodciscoRESTService\bin\SanFoodciscoRESTService.pdb
+c:\users\ken\documents\visual studio 2013\Projects\SanFoodciscoRESTService\SanFoodciscoRESTService\obj\Debug\SanFoodciscoRESTService.dll
+c:\users\ken\documents\visual studio 2013\Projects\SanFoodciscoRESTService\SanFoodciscoRESTService\obj\Debug\SanFoodciscoRESTService.pdb
